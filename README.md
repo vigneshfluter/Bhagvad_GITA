@@ -20,10 +20,10 @@ To get started with the Departure_Bhagwat_Geeta project, follow these steps:
 
 For detailed instructions on Flutter development, refer to the [online documentation](https://docs.flutter.dev/).
 
-## Demo Screen Recording
-
-https://github.com/Molotov921/Departure_Bhagwat_Geeta_app/assets/106720289/37f9ed26-1035-465a-89dc-6feee677617d
 
 ## Screenshots
 ![Devloped](https://github.com/user-attachments/assets/829165db-2da4-435c-8dca-26a9c883c967)
+## Demo Screen Recording
+
+https://github.com/Molotov921/Departure_Bhagwat_Geeta_app/assets/106720289/37f9ed26-1035-465a-89dc-6feee677617d
 
